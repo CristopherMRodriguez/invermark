@@ -1,0 +1,15 @@
+/* footer section */
+
+
+.social-ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-top: 1rem;
+
+}
+
+.social-ul img {
+  width: 40px;
+}
+
